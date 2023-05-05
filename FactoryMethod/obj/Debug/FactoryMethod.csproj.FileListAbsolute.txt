@@ -1,0 +1,6 @@
+/home/henriquemedeiros/RiderProjects/FactoryMethod/FactoryMethod/bin/Debug/FactoryMethod.exe
+/home/henriquemedeiros/RiderProjects/FactoryMethod/FactoryMethod/bin/Debug/FactoryMethod.pdb
+/home/henriquemedeiros/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/FactoryMethod.csproj.AssemblyReference.cache
+/home/henriquemedeiros/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/henriquemedeiros/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/FactoryMethod.exe
+/home/henriquemedeiros/RiderProjects/FactoryMethod/FactoryMethod/obj/Debug/FactoryMethod.pdb
